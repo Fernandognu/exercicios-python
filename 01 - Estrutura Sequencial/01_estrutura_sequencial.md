@@ -281,3 +281,4 @@ Faça um programa que peça o tamanho de um arquivo para download (em MB) e a ve
 === "Código"
 	```pyodide
 	```
+#### Resolvido
