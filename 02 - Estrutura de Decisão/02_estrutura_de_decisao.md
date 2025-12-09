@@ -354,3 +354,6 @@ Para atender a todos os clientes, cada cliente poderá levar apenas um dos tipos
 === "Código"
 	```pyodide
 	```
+
+
+#### Resolvido
